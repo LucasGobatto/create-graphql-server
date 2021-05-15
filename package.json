@@ -8,7 +8,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LucasGobatto/graphql-api.git"
+    "url": "git+https://github.com/LucasGobatto/create-graphql-server.git"
   },
   "keywords": [
     "typescript",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/LucasGobatto/graphql-api/issues"
   },
-  "homepage": "https://github.com/LucasGobatto/graphql-api#readme",
+  "homepage": "https://github.com/LucasGobatto/create-graphql-server#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
