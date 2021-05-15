@@ -1,0 +1,16 @@
+{
+  "name": "create-tsgraphql-server",
+  "version": "1.0.0",
+  "description": "creates a simple graphql server with typescript",
+  "bin": {
+    "create-tsgraphql-server": "index.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasGobatto/graphql-api"
+  },
+  "keywords": ["typescript", "graphql", "typeorm"],
+  "author": "LucasGobatto",
+  "license": "MIT"
+}
