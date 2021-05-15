@@ -11,6 +11,6 @@
     "url": "https://github.com/LucasGobatto/graphql-api"
   },
   "keywords": ["typescript", "graphql", "typeorm"],
-  "author": "LucasGobatto",
+  "author": "LucasGobatto <lucas.bisaio@live.com>",
   "license": "MIT"
 }
