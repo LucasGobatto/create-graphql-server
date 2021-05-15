@@ -1,4 +1,4 @@
-# CREATE-TSGRAPHQL-SERVER
+# CREATE-GRAPHQL-SERVER
 
 Creates a GraphQL server with TypeScript and TypeORM.
 
@@ -20,8 +20,8 @@ Creates a GraphQL server with TypeScript and TypeORM.
 Using npm:
 
 ```
-$ npm i -g create-tsgraphql-server
-$ npm i --save create-tsgraphql-server
+$ npm i -g create-graphql-server
+$ npm i --save create-graphql-server
 ```
 
 ## Usage
@@ -29,16 +29,16 @@ $ npm i --save create-tsgraphql-server
 Run for global install:
 
 ```
-$ create-tsgraphql-server project-name
+$ create-graphql-server project-name
 ```
 
 Or run npx:
 
 ```
-$ npx create-tsgrapqgl-server project-name
+$ npx create-graphql-server project-name
 ```
 
-Into project folder
+Within project folder:
 
 ```
 $ npm install
@@ -49,7 +49,7 @@ This will create a directory and clone the [GraphQL-API](https://github.com/Luca
 
 ## Bugs on Issues?
 
-Open an issue into [issues](https://github.com/LucasGobatto/create-tsgraphql-server) section on repository.
+Open an issue into [issues](https://github.com/LucasGobatto/create-graphql-server) section on repository.
 
 ## Want to Help?
 
