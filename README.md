@@ -47,13 +47,13 @@ $ npm run dev
 
 This will create a directory and clone the [GraphQL-API](https://github.com/LucasGobatto/graphql-api) repository.
 
-## Bugs on Issues?
+## Bugs or Issues?
 
 Open an issue into [issues](https://github.com/LucasGobatto/create-graphql-server) section on repository.
 
 ## Want to Help?
 
-Open a pull request to the [repository](https://github.com/LucasGobatto/graphql-api).
+Open a pull request [here](https://github.com/LucasGobatto/graphql-api).
 
 #
 
