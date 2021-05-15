@@ -1,5 +1,5 @@
 {
-  "name": "@lucasgobatto/create-tsgraphql-server",
+  "name": "@lucasgobatto/create-graphql-server",
   "version": "1.0.0",
   "description": "creates a simple graphql server with typescript",
   "bin": {
@@ -8,7 +8,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LucasGobatto/graphql-api"
+    "url": "git+https://github.com/LucasGobatto/graphql-api.git"
   },
   "keywords": [
     "typescript",
@@ -16,5 +16,12 @@
     "typeorm"
   ],
   "author": "LucasGobatto <lucas.bisaio@live.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasGobatto/graphql-api/issues"
+  },
+  "homepage": "https://github.com/LucasGobatto/graphql-api#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
