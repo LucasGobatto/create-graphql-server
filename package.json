@@ -1,6 +1,6 @@
 {
   "name": "@lucasgobatto/create-graphql-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "creates a simple graphql server with typescript",
   "bin": {
     "create-graphql-server": "index.js"
